@@ -1,4 +1,4 @@
-it was made in C++ I think
+it was made in cmd
 
 the answers to the questions are
 1. 910
