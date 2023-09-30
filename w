@@ -1,1 +1,1 @@
-[cool video](https://www.youtube.com/watch?v=xvFZjo5PgG0)
+[coolvideo](https://www.youtube.com/watch?v=xvFZjo5PgG0)
